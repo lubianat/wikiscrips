@@ -1,0 +1,118 @@
+
+A '''EN 149''' é uma [[Comité Europeu de Normalização|norma europeia]] de requisitos de teste e marcação para a filtragem de máscaras/respiradores. <ref name="BS-EN-149:2009">{{Citation|title=Respiratory protective devices – Filtering half masks to protect against particles – Requirements, testing, marking|publisher=European Committee for Standardization (CEN)|date=May 2009|id=EN 149:2001+A1:2009 (E)|url=https://standards.cen.eu/dyn/www/f?p=204:110:0::::FSP_PROJECT,FSP_ORG_ID:32928,6062&cs=1FC98AD34A5EE26A0CB5A6155ED4D6E5E}}</ref> Essas máscaras cobrem o nariz, boca e queixo e podem ter válvulas de inalação e/ou exalação.  A EN 149 define três classes de tais máscarasː '''FFP1''', '''FFP2''' e '''FFP3''', (FFP = ''filtering facepiece,'' ingles para máscara de filtragem). Ele também classifica as máscaras em "usoem turno único" (não reutilizável, marcado como '''NR''' ) ou "reutilizável (mais de um turno)" (marcado com '''R'''), e uma letra de marcação adicional '''D''' indica que uma máscara passou por um teste opcional de entupimento usando pó de [[Dolomita|dolomita.]] Tais respiradores com filtro mecânico protegem contra a inalação de [[Material particulado|partículas]], como partículas de [[poeira]], gotículas e [[Aerossol|aerossóis]]. <ref>{{Citar web |url=https://www.rivm.nl/sites/default/files/2018-11/150922%20Persoonlijke%20beschermingsmiddelen-DEFINITIEF.pdf |titulo=WIP-Richtlijn Persoonlijke beschermingsmiddelen [ZKH] |data=September 2015 |acessodata=2020-04-30 |website=rivm.nl |publicado=Werkgroep Infectie Preventie, [[Netherlands National Institute for Public Health and the Environment|RIVM]]}}</ref>
+
+Testes quase idênticos (mas marcações diferentes) são usados na [[Austrália]], [[Nova Zelândia]], [[Coréia]] e [[Brasil]]. Padrões semelhantes são usados nos [[Estados Unidos]], [[China]] e [[Japão]]. Por exemplo, as máscaras ''EN 149 FFP2'' têm requisitos de desempenho semelhantes às [[Máscara N95|máscaras N95]] nos Estados Unidos e respiradores KN95 da China. As máscaras EN 149 FFP3 têm requisitos de desempenho semelhantes às máscaras N99 nos Estados Unidos. No entanto, os requisitos de teste do EN 149 diferem um pouco dos padrões norte-americano/chinês/japonês: o EN 149 requer um teste de aerossol de óleo de parafina, testa em uma faixa de taxas de fluxo diferentes e define vários níveis de [[Perda de carga|queda de pressão permitidos e associados.]] <ref name="3m-comparison">{{Citar web |url=https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf |titulo=Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes |data=2020-01-01 |acessodata=2020-03-28 |website=3M Technical Data Bulletin}}</ref> <ref name="supply_optimize">{{Citar web |url=https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/crisis-alternate-strategies.html |titulo=Strategies for Optimizing the Supply of N95 Respirators: Crisis/Alternate Strategies |data=2020-03-17 |acessodata=2020-03-28 |website=U.S. Centers for Disease Control and Prevention |lingua=en-us}} {{PD-inline}}</ref>
+
+== Classificação ==
+A norma EN 149 define os requisitos de desempenho para três classes de máscaras de filtragem de partículas: FFP1, FFP2 e FFP3. A proteção fornecida por uma máscara FFP2 (ou FFP3) inclui a proteção fornecida por uma máscara das classes de numeração inferior.
+
+Uma máscara em conformidade com o padrão deve ter sua classe escrita nela, junto com o nome do padrão e seu ano de publicação, bem como quaisquer códigos de opção aplicáveis, por exemplo “''EN 149: 2001 FFP1 NR D''”. Alguns fabricantes usam, além disso, a cor da faixa elástica para identificar a classe da máscara; no entanto, a norma EN 149 não especifica esse tipo de codificação de cores e diferentes fabricantes usam diferentes esquemas de cores.
+{| class="wikitable"
+!Classe <ref name="inrs">{{Citar web |url=https://www.esst-inrs.fr/3rb/ressources/ed105.pdf |titulo=Fiche pratique de sécurité ED 105. Appareils de protection respiratoire et métiers de la santé |acessodata=7 April 2020 |website=inrs.fr |publicado=[[Institut national de recherche et de sécurité|INRS]]}}</ref>
+! Limite de penetração do filtro (a 95 L / min de fluxo de ar)
+! Vazamento interno
+! Faixa elástica típica
+|-
+| FFP1
+| Filtra ao menos 80% das partículas transportadas pelo ar
+| <22%
+| Amarelo
+|-
+| FFP2
+| Filtra ao menos 94% das partículas transportadas pelo ar
+| <8%
+| Azul ou branco
+|-
+| FFP3
+| Filtra ao menos 99% das partículas transportadas pelo ar
+| <2%
+| vermelho
+|}
+
+=== Máscara FFP1 ===
+[[Ficheiro:Corona_Face_mask_FFP1_(50576542218).jpg|miniaturadaimagem| Máscara facial FFP1]]
+É a máscara menos filtrante das três.
+
+* [[Filtração|Porcentagem de filtração de]] [[aerossol]] : mínimo de 80%.
+* Taxa de vazamento interno: máximo 22%. <ref name="inrs">{{Citar web |url=https://www.esst-inrs.fr/3rb/ressources/ed105.pdf |titulo=Fiche pratique de sécurité ED 105. Appareils de protection respiratoire et métiers de la santé |acessodata=7 April 2020 |website=inrs.fr |publicado=[[Institut national de recherche et de sécurité|INRS]]}}<cite class="citation web cs1" data-ve-ignore="true">[https://www.esst-inrs.fr/3rb/ressources/ed105.pdf "Fiche pratique de sécurité ED 105. Appareils de protection respiratoire et métiers de la santé"] <span class="cs1-format">(PDF)</span>. ''inrs.fr''. [[Institut national de recherche et de sécurité|INRS]]<span class="reference-accessdate">. Retrieved <span class="nowrap">7 April</span> 2020</span>.</cite></ref>
+
+É usado principalmente como máscara contra poeira (por exemplo, para trabalhos de [[Faça-você-mesmo|bricolagem)]]. A [[poeira]] de construção pode causar [[Doença respiratória|doenças pulmonares]], como [[silicose]], [[antracose]], [[siderose]] e [[asbestose]] (principalmente poeira de [[Dióxido de silício|sílica]], [[Carvão mineral|carvão]], [[minério de ferro]], [[zinco]], [[alumínio]] ou mesmo [[cimento]] ).
+
+=== Máscara FFP2 ===
+
+* Porcentagem de filtração de aerossol: não inferior a 94%.
+* Taxa de vazamento interno: máximo 8%. <ref name="inrs">{{Citar web |url=https://www.esst-inrs.fr/3rb/ressources/ed105.pdf |titulo=Fiche pratique de sécurité ED 105. Appareils de protection respiratoire et métiers de la santé |acessodata=7 April 2020 |website=inrs.fr |publicado=[[Institut national de recherche et de sécurité|INRS]]}}<cite class="citation web cs1" data-ve-ignore="true">[https://www.esst-inrs.fr/3rb/ressources/ed105.pdf "Fiche pratique de sécurité ED 105. Appareils de protection respiratoire et métiers de la santé"] <span class="cs1-format">(PDF)</span>. ''inrs.fr''. [[Institut national de recherche et de sécurité|INRS]]<span class="reference-accessdate">. Retrieved <span class="nowrap">7 April</span> 2020</span>.</cite></ref>
+
+Esta máscara oferece proteção em várias áreas como a indústria [[Vidro|do vidro]], fundição, [[construção]], indústria [[Medicamento|farmacêutica]] [[Agricultura|e agricultura]]. Ele é muito eficaz na barragem de produtos químicos em pó. Essa máscara também pode servir de proteção contra vírus respiratórios como a [[gripe aviária]] ou [[Síndrome respiratória aguda grave|síndrome respiratória aguda grave associada ao coronavírus]] (SARS), bem como contra as [[Bactéria|bactérias]] da [[Peste pulmonar|peste pneumônica]] e da [[tuberculose]] .<ref>{{Citar web |url=http://www.sante.gouv.fr/risques-infectieux-en-milieu-de-soins-masques-medicaux-ou-appareils-de-protection-respiratoire-jetables-quel-materiel-choisir.html |titulo=Risques infectieux en milieu de soins - masques médicaux ou appareils de protection respiratoire jetables : quel matériel choisir ? |data=27 August 2009 |acessodata=16 June 2015 |website=sante.gouv.fr}}</ref> É semelhante à [[máscara N95]] . <ref name="3m-comparison">{{Citar web |url=https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf |titulo=Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes |data=2020-01-01 |acessodata=2020-03-28 |website=3M Technical Data Bulletin}}<cite class="citation web cs1" data-ve-ignore="true">[https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf "Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes"] <span class="cs1-format">(PDF)</span>. ''3M Technical Data Bulletin''. 2020-01-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-03-28</span></span>.</cite></ref>
+
+=== Máscara FFP3 ===
+[[Ficheiro:Corona_Face_mask_FFP3_(50560133268).jpg|miniaturadaimagem| Máscara facial FFP3]]
+
+* Porcentagem de filtração de aerossol: não inferior a 99%.
+* Taxa de vazamento interno: máximo 2% <ref name="inrs">{{Citar web |url=https://www.esst-inrs.fr/3rb/ressources/ed105.pdf |titulo=Fiche pratique de sécurité ED 105. Appareils de protection respiratoire et métiers de la santé |acessodata=7 April 2020 |website=inrs.fr |publicado=[[Institut national de recherche et de sécurité|INRS]]}}<cite class="citation web cs1" data-ve-ignore="true">[https://www.esst-inrs.fr/3rb/ressources/ed105.pdf "Fiche pratique de sécurité ED 105. Appareils de protection respiratoire et métiers de la santé"] <span class="cs1-format">(PDF)</span>. ''inrs.fr''. [[Institut national de recherche et de sécurité|INRS]]<span class="reference-accessdate">. Retrieved <span class="nowrap">7 April</span> 2020</span>.</cite></ref>
+
+A máscara FFP3 é a mais filtrante das máscaras FFP. Protege contra partículas muito finas, como [[Asbesto|amianto]] e [[cerâmica]]. Não protege, contudo, contra gases tóxicos como o [[Óxidos de nitrogênio|óxido de nitrogênio]]. <ref>{{Citar web |url=http://blog.velib.paris.fr/blog/2014/03/15/velib-et-pollution-les-reponses-du-docteur-jean-luc-saladin/ |titulo=Vélib' et pollution, les réponses du docteur Jean-Luc Saladin |acessodata=1 June 2015 |arquivourl=https://web.archive.org/web/20140917051236/http://blog.velib.paris.fr/blog/2014/03/15/velib-et-pollution-les-reponses-du-docteur-jean-luc-saladin/ |arquivodata=17 September 2014}}</ref>
+
+== Requisitos ==
+EN 149 define testes de [[laboratório]], testes de campo e certos requisitos para garantir a conformidade das máscaras. Os seguintes pontos são analisados:
+
+* [[Embalagem]]
+* Materiais: resistência à manipulação
+* Teste prático de desempenho
+* Vazamento: vazamento total para dentro e penetração do material do filtro
+
+Existem algumas organizações europeias que emitem um certificado de exame confirmando a conformidade e especificando as características dos produtos:
+
+* INRS e APAVE na [[França]]
+* INSPEC na [[Grã-Bretanha]]
+* FACHAUSSCHUSS na [[Alemanha]]
+* [[Institut für Arbeitschutz der Deutschen Gesetzlichen Unfallversicherung|Instituto de Segurança e Saúde Ocupacional do Seguro Alemão de Acidentes Sociais]] <ref>{{Citar web |ultimo=European Commission |url=https://ec.europa.eu/growth/tools-databases/nando/index.cfm?fuseaction=country.nb&refe_cd=EPOS_43443 |titulo=Notification |acessodata=2021-02-19}}</ref> na Alemanha
+* CIOP-PIB na Polônia <ref>{{Citar web |ultimo=CIOP-PIB |url=https://www.ciop.pl/CIOPPortalWAR/appmanager/ciop/en?_nfpb=true&_pageLabel=P7400113781340609629707&html_tresc_root_id=16378&html_tresc_id=16387&html_klucz=6811&html_klucz_spis= |titulo=Department of Personal Protective Equipment}}</ref>
+
+=== Versão 2009 ===
+Com a publicação da versão 2009 da norma, a designação da máscara de proteção respiratória passou a ser "meia máscara de filtragem de partículas". A abreviatura NR ou R é adicionada após FFP1, FFP2, FFP3:
+
+# NR (não reutilizável): indica que o uso da máscara filtrante seja limitado a um dia útil. Não é reutilizável.
+# R (reutilizável): indica que o uso da máscara filtrante possa ser feito por mais de um dia útil, então é reutilizável.
+
+Sufixos adicionais incluem:
+
+* Máscaras NR anti-entupimento (D). Quando a máscara passar no [[Dolomita|teste de poeira de dolomita]], uma letra D pode ser adicionada para indicar que a vida útil pode exceder 8 h. <ref>{{Citar web |ultimo=MOLDEX-METRIC |url=http://fiprotec.com/fichiers_niveau2/40/Moldex_FFP_3305_3405_3505.pdf |titulo=La série 3000 FFP}}</ref> Exemplo: ''FFP3 NR D''.
+* Válvula. A presença de uma válvula pode ser indicada pela letra V. <ref name="venus">{{Citar web |url=http://www.mannengineers.com/assets/pdf/venus_brochure_1_60.pdf |titulo=2016 Catalogue |publicado=VENUS Safety & Health Pvt. Ltd.}}</ref> <sup class="noprint Inline-Template Template-Fact" data-ve-ignore="true" style="white-space:nowrap;">&#x5B; ''<nowiki><span title="Letter V is '''not''' mentioned in EN 149:2001 or EN 149:2001+A1:2009 (November 2020)">citação necessária</span></nowiki>'' &#x5D;</sup>
+* Tipo de partícula. As letras S ou L, respectivamente, especificam a filtração de poeira sólida (somente NaCl) ou névoa líquida (óleo de parafina). Exemplo: ''FFP3 SLV''. <ref>{{Citar web |url=https://www.1stopweldingshop.com/Catalogue/Safety-Fume-extraction/Face-Masks/FFP3-Face-Masks/BLS-Zer0-30-FFP3-Carbon-Valved-Face-Mask-S1472-BLS |titulo=BLS Zer0 30 FFP3 Carbon Valved Face Mask |acessodata=2021-02-19 |website=AES Industrial Supplies Limited |lingua=en-GB}}</ref>
+
+=== Marcação ===
+Os respiradores FFP são um tipo de [[equipamento de proteção individual]] (EPI). Aqui está o aviso que deve aparecer em todas as máscaras :
+
+* Nome do fabricante
+* Tipo de máscara
+* Número CE do órgão de certificação (apenas FFP3) + ''EN 149: 2009'' + a classe da máscara (''FFP1'', ''FFP2'' ou ''FFP3'') + sigla (''NR'' ou ''R'') 
+
+A marcação deve estar em conformidade com a Diretiva da União Europeia 89/686/EEC <ref name="inrs">{{Citar web |url=https://www.esst-inrs.fr/3rb/ressources/ed105.pdf |titulo=Fiche pratique de sécurité ED 105. Appareils de protection respiratoire et métiers de la santé |acessodata=7 April 2020 |website=inrs.fr |publicado=[[Institut national de recherche et de sécurité|INRS]]}}<cite class="citation web cs1" data-ve-ignore="true">[https://www.esst-inrs.fr/3rb/ressources/ed105.pdf "Fiche pratique de sécurité ED 105. Appareils de protection respiratoire et métiers de la santé"] <span class="cs1-format">(PDF)</span>. ''inrs.fr''. [[Institut national de recherche et de sécurité|INRS]]<span class="reference-accessdate">. Retrieved <span class="nowrap">7 April</span> 2020</span>.</cite></ref> sobre EPI. Se alguma dessas especificações estiver ausente, a máscara será considerada ''não compatível'' .
+
+== Uso médico ==
+A '''EN 149''' testa a capacidade das máscaras de proteger os usuários contra a inalação de líquidos e aerossóis secos. Ele não faz nenhuma declaração e não testa especificamente a adequação de tais máscaras para o controle de infecções contra a transmissão aérea de [[Agente patogénico|patógenos]] através de [[Gotícula respiratória|gotículas respiratórias]]. No entanto, as máscaras FFP2 e FFP3 são comumente usadas para essa finalidade na prática médica.
+
+== Padrões semelhantes ==
+Várias regiões usam padrões baseados em testes e limites quase idênticos aos da EN 149, mas com marcações diferentes: <ref name="3m-comparison">{{Citar web |url=https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf |titulo=Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes |data=2020-01-01 |acessodata=2020-03-28 |website=3M Technical Data Bulletin}}<cite class="citation web cs1" data-ve-ignore="true">[https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf "Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes"] <span class="cs1-format">(PDF)</span>. ''3M Technical Data Bulletin''. 2020-01-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-03-28</span></span>.</cite></ref>
+
+* [[Rússia]] (''GOST R 12.4.191-2011)'': idêntico.
+* [[Coreia do Sul]] (''KMOEL - 2017–64''): considerada idêntica à versão pré-2009. FFP1 é denominado "2° grau" ou KF80, FFP2 "1° grau" ou KF94 e FFP3 "grau especial" ou KF99. <ref>{{Citar periódico |titulo=Comparison of Filtration Efficiency and Pressure Drop in Anti-Yellow Sand Masks, Quarantine Masks, Medical Masks, General Masks, and Handkerchiefs |data=2014 |ultimo=Jung |primeiro=Hyejung |ultimo2=Kim |primeiro2=Jongbo |paginas=991–1002 |doi=10.4209/aaqr.2013.06.0201 |ultimo3=Lee |primeiro3=Seungju |ultimo4=Lee |primeiro4=Jinho |ultimo5=Kim |primeiro5=Jooyoun |ultimo6=Tsai |primeiro6=Perngjy |ultimo7=Yoon |primeiro7=Chungsik |volume=14 |doi-access=free |journal=Aerosol and Air Quality Research}}</ref>
+* [[Austrália]] e [[Nova Zelândia]] (''AS / NZ 1716: 2012''): notas semelhantes com um agente de teste diferente. As notas são escritas simplesmente "P".
+* [[Brasil]] (''ABNT / NBR 13698: 2011''): idêntica à versão pré-2009. As notas são escritas como "PFF". <ref>{{Citar web |url=https://www.zambini.org.br/pdfs/ABNT%20NBR%2013698-2011%20%20-%20Equipamento%20de%20prote%C3%A7%C3%A3o%20respirat%C3%B3ria%20%E2%80%94%20Pe%C3%A7a%20semifacial%20filtrante%20para%20part%C3%ADculas.pdf |titulo=ABNT/NBR 13698:2011 E quip amento de proteção respiratória — Peça semifacial fi ltrante para partículas |lingua=pt-BR}}</ref>
+
+Outras regiões usam testes semelhantes que (em partes) se assemelham mais aos requisitos  ''42 CFR 84'' nos Estados Unidos:
+
+* [[Japão]] (Notificação ''JMHLW 214, 2018''): graus semelhantes com um esquema de codificação diferente para os tipos ''NR / R'' e S / L. Escrito com um prefixo de duas letras D / R e S / L que mapeia para NR / R e S / L respectivamente. O requisito de vazamento não está presente. <ref>{{Citar web |url=https://www.jniosh.johas.go.jp/icpro/jicosh-old/english/law/DustMask/index.html |titulo=Standard for Dust Mask |website=JICOSH Home}}</ref>
+* [[Taiwan]] (''CNS 14755''): classes D1 / D2 / D3 para eficiência 80/95/99. Não há requisitos para vazamento interno.
+
+== Ver também ==
+
+* [[Máscara N95]]
+* [[Máscara respiratória|Respirador]]
+* [[Máscara cirúrgica]]
+
+== Notas e referências ==
+ 
+[[Categoria:União Europeia]]
+[[Categoria:!Páginas com traduções não revistas]]
